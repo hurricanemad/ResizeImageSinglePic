@@ -1,0 +1,13 @@
+/home/dox/Algorithm/ResizeImageSinglePic/build/CMakeFiles/install.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/CMakeFiles/list_install_components.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/CMakeFiles/install/strip.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/CMakeFiles/install/local.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/CMakeFiles/edit_cache.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/bin/CMakeFiles/install.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/bin/CMakeFiles/list_install_components.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/bin/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/bin/CMakeFiles/resizeimagesinglepic.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/bin/CMakeFiles/install/strip.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/bin/CMakeFiles/install/local.dir
+/home/dox/Algorithm/ResizeImageSinglePic/build/bin/CMakeFiles/edit_cache.dir

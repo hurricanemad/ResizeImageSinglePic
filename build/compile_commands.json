@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dox/Algorithm/ResizeImageSinglePic/build/bin",
+  "command": "/usr/bin/c++    -I/usr/local/include  -O3 -DNDEBUG   -o CMakeFiles/resizeimagesinglepic.dir/main.cpp.o -c /home/dox/Algorithm/ResizeImageSinglePic/src/main.cpp",
+  "file": "/home/dox/Algorithm/ResizeImageSinglePic/src/main.cpp"
+}
+]

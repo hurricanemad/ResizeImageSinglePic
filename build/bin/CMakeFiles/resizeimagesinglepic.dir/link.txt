@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/resizeimagesinglepic.dir/main.cpp.o  -o resizeimagesinglepic  -L/usr/local/lib -rdynamic -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_imgcodecs -Wl,-rpath,/usr/local/lib: 

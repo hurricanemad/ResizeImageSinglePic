@@ -1,0 +1,1 @@
+/home/dox/Algorithm/ResizeImageSinglePic/build/./install/resizeimagesinglepic
